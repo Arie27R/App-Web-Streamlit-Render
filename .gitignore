@@ -1,1 +1,8 @@
+#Entornos virtuales
+.venv/
 
+# Archivos de configuración de Streamlit
+.streamlit/
+
+# Archivos de configuración de Git
+.git/
