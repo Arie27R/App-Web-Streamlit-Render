@@ -28,7 +28,7 @@ st.markdown('''
     </style>
 ''', unsafe_allow_html=True)
 
-car_data = pd.read_csv(r'D:\AnalisisdeDatos\AppWeb-Streamlit\vehicles_us.csv') # leer los datos
+car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
 # Estilos CSS para el botón
 st.markdown(
