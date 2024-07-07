@@ -49,5 +49,12 @@ streamlit run .\app.py --server.port 10000
 Una vez que la aplicación esté en ejecución, abre tu navegador web y navega a http://localhost:10000 para interactuar con el dashboard.
 ```
 
+## Extras
+```bash
+La aplicación actual está desplegada en Render.com, puedes acceder a ella mediante el enlace: 
+https://app-web-streamlit-render.onrender.com
+```
+
+
 
 
